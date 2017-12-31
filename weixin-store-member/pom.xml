@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>weixin-store-parent</artifactId>
+        <groupId>com.xusong</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>weixin-store-member</artifactId>
+
+    <dependencies>
+        <!-- springboot整合mybatis -->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.3.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.xusong</groupId>
+            <artifactId>weixin-store-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!--引入模块对应的API项目-->
+        <dependency>
+            <groupId>com.xusong</groupId>
+            <artifactId>weixin-store-member-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

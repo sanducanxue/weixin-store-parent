@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-api/weixin-store-api.iml" filepath="$PROJECT_DIR$/weixin-store-api/weixin-store-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-common/weixin-store-common.iml" filepath="$PROJECT_DIR$/weixin-store-common/weixin-store-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-member/weixin-store-member.iml" filepath="$PROJECT_DIR$/weixin-store-member/weixin-store-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-api/weixin-store-member-api/weixin-store-member-api.iml" filepath="$PROJECT_DIR$/weixin-store-api/weixin-store-member-api/weixin-store-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-message/weixin-store-message.iml" filepath="$PROJECT_DIR$/weixin-store-message/weixin-store-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-api/weixin-store-message-api/weixin-store-message-api.iml" filepath="$PROJECT_DIR$/weixin-store-api/weixin-store-message-api/weixin-store-message-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-api/weixin-store-order-api/weixin-store-order-api.iml" filepath="$PROJECT_DIR$/weixin-store-api/weixin-store-order-api/weixin-store-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-parent.iml" filepath="$PROJECT_DIR$/weixin-store-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-store-api/weixin-store-pay-api/weixin-store-pay-api.iml" filepath="$PROJECT_DIR$/weixin-store-api/weixin-store-pay-api/weixin-store-pay-api.iml" />
+    </modules>
+  </component>
+</project>

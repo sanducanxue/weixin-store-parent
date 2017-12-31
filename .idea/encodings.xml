@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-api/weixin-store-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-api/weixin-store-message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-api/weixin-store-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-api/weixin-store-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-store-message" charset="UTF-8" />
+  </component>
+</project>
