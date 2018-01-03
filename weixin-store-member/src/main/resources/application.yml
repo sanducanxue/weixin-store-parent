@@ -40,6 +40,8 @@ spring:
   ##activemq连接信息
   activemq:
     broker-url: tcp://localhost:8161
+    user: admin
+    password: admin
     in-memory: true
     pool:
       enabled: false
