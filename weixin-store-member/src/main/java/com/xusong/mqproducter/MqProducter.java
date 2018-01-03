@@ -14,8 +14,7 @@ public class MqProducter {
 
     public void sendMess(String aaa, String json) {
         List<String> list = Collections.singletonList("aaa");
-
-
+        List<String> list2 = Collections.singletonList("aaa");
         //jmsMessagingTemplate.convertAndSend(destination, json);
     }
 }
